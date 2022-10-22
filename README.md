@@ -1,3 +1,5 @@
+# Fork do KubeDev para fins de estudos durante o bootcamp DevOps de Elite sob instrução de Fabrício Veronez.
+
 # Projeto conversão de temperatura
 
 ### Sobre o projeto
